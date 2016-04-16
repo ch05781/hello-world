@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> What is my title? </title>
+  </head>
+  <body>
+    <p> This <em>hello</em> world project is still <br/>
+    Alive for me.<br/>
+    I'm trying to fill up space here. </p>
+    <p> Paragraph 2 </p>
+    <p> Paragraph 3 </p>
+    <ul>
+    <li> iced tea </li>
+    <li> hot tea </li>
+    <li> bubble tea </li>
+    <table>
+    <tr>
+    <th> left </th>
+    <th> right </th>
+    </tr>
+    </table>
+    <a href="http://google.com" title= What's going on">What</a>
+    <a href="mailto:ch05781@gmail.com">E-mail us!</a>
+  </body>
+</html>
